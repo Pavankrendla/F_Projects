@@ -9,3 +9,4 @@ print("Multiplication:", a * b)
 print("Division:", a / b)
 #code is completed with proper measures and bullets
 #when i bought the new shoes, i had 10k expenses
+#hoodi cost is 2 k
